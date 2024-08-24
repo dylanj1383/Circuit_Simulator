@@ -1,6 +1,6 @@
 # Circuit_Simulator
 Series Circuit Builder Simulation
-
+<img width="997" alt="Circuit_Sim_Img" src="https://github.com/user-attachments/assets/b350f66c-b303-409a-b336-1063166f9104">
 
 ### Prerequisites
 - Download and install processing from https://processing.org/download
